@@ -1,0 +1,3 @@
+interface TireService {
+     void updateTyre();
+}
